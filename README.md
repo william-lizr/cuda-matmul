@@ -1,5 +1,5 @@
 # cuda-matmul
-Learning to optimize a cuda kernal for matrix multiplication (gemm/level 3 blas)   
+Learning to optimize a cuda kernel for matrix multiplication (gemm/level 3 blas)   
 
 Following tutorial by SIBOEHM:  
 https://siboehm.com/articles/22/CUDA-MMM  
